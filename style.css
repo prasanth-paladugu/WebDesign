@@ -1,0 +1,23 @@
+body{
+    font-family: arial;
+    font-size: 18px;
+}
+
+h1,h2{
+    color:#03aa03;
+}
+
+h1  {
+    font-size: 40px;
+}
+
+h2{
+    font-size: 25px;
+    }
+
+.main-text {
+    text-align: justify;
+}
+.author-text{
+    font-size: 22px;
+}
